@@ -110,11 +110,15 @@ p {
 /* Testimonial Section */
 
 #testimonials {
+    font-size: 2rem;
     background-color: rgb(252, 149, 90);
 }
 
+#testimonials em {
+    font-size: 1rem;
+}
+
 .testimonial-text {
-    font-size: 3rem;
     line-height: 1.5;
 }
 
